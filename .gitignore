@@ -1,0 +1,33 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Resulting files
+testExample.pdf
+output.png
+
+# Files inside projects folder
+/projects/*
+
+# Logs
+*.log
+
+# Dependency directories
+node_modules/
+vendor/
+
+# Temporary files
+*.tmp
+*.temp
+
+# IDE directories
+.vscode/
+.idea/
+# Node.js dependency directory
+node_modules/
+
+# Environment files
+.env
+
+# npm debug log files
+npm-debug.log*

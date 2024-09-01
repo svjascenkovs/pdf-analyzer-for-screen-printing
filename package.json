@@ -1,0 +1,15 @@
+{
+  "name": "screenprintingarea",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aldis Svjaščenkovs",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "node-poppler": "^7.2.2",
+    "sharp": "^0.33.5"
+  }
+}
